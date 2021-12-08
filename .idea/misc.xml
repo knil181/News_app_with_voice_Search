@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/KENIL PATEL/AndroidStudioProjects/CollegeProject/app/src/main/res/drawable/black_background.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/KENIL PATEL/AndroidStudioProjects/CollegeProject/app/src/main/res/drawable/circle_bg.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/KENIL PATEL/AndroidStudioProjects/CollegeProject/app/src/main/res/drawable/gradient.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/KENIL PATEL/AndroidStudioProjects/CollegeProject/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/KENIL PATEL/AndroidStudioProjects/CollegeProject/app/src/main/res/layout/about_us_pop_up.xml" value="0.22" />
+        <entry key="..\:/Users/KENIL PATEL/AndroidStudioProjects/CollegeProject/app/src/main/res/layout/activity_detailed.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/KENIL PATEL/AndroidStudioProjects/CollegeProject/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/KENIL PATEL/AndroidStudioProjects/CollegeProject/app/src/main/res/layout/fragment_CNN.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/KENIL PATEL/AndroidStudioProjects/CollegeProject/app/src/main/res/layout/fragment_b_b_c.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/KENIL PATEL/AndroidStudioProjects/CollegeProject/app/src/main/res/layout/fragment_business.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/KENIL PATEL/AndroidStudioProjects/CollegeProject/app/src/main/res/layout/fragment_c_n_n.xml" value="0.10643115942028986" />
+        <entry key="..\:/Users/KENIL PATEL/AndroidStudioProjects/CollegeProject/app/src/main/res/layout/fragment_hacker_news.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/KENIL PATEL/AndroidStudioProjects/CollegeProject/app/src/main/res/layout/fragment_ny_times.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/KENIL PATEL/AndroidStudioProjects/CollegeProject/app/src/main/res/layout/items.xml" value="0.18645833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
